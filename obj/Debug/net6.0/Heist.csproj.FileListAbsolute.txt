@@ -1,0 +1,15 @@
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\bin\Debug\net6.0\Heist.exe
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\bin\Debug\net6.0\Heist.deps.json
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\bin\Debug\net6.0\Heist.runtimeconfig.json
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\bin\Debug\net6.0\Heist.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\bin\Debug\net6.0\Heist.pdb
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.csproj.AssemblyReference.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.AssemblyInfoInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.AssemblyInfo.cs
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.csproj.CoreCompileInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\refint\Heist.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.pdb
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\Heist.genruntimeconfig.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\Heist\obj\Debug\net6.0\ref\Heist.dll
